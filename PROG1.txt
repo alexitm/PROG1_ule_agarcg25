@@ -1,0 +1,10 @@
+verde - http://inventada.com
+azul - http://inventada2.com
+rojo - http://inventada3.com
+amarillo - http://inventada4.com
+naranja - http://inventada5.com
+turquesa - http://inventada6.com
+añil - http://inventada7.com
+cyan - http://inventada8.com
+negro - http://inventada9.com
+blanco - http://inventada10.com
